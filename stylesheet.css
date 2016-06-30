@@ -25,7 +25,7 @@ body {
   }
 }
 
-@media (max-width: 500px) and (min-width: 600px) {
+@media (max-width: 400px) and (min-width: 600px) {
   .image-block {
     height: 175px;
   }
